@@ -16,6 +16,3 @@
 [submodule "icon_resources/feather"]
 	path = icon_resources/feather
 	url = https://github.com/feathericons/feather.git
-[submodule "icon_resources/material-design-icons"]
-	path = icon_resources/material-design-icons
-	url = https://github.com/google/material-design-icons.git
